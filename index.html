@@ -11,12 +11,15 @@
   <body>
     <div class="container">
       <h1>Word Play</h1>
-      <h3>Enter a sentence:</h3>
-      <input type="text" id="yourWords">
-      <button id="listenToMe">Are you listening?</button>
+      <div id="listening">
+        <h3>Enter a sentence:</h3>
+        <input type="text" id="yourWords" class="form-control">
+        <button id="listenToMe" class="btn">Are you listening?</button>
+      </div>
       <div  id="response">
         <h3>Of course I'm listening, you said: </h3>
         <p id="myWords"></p>
+        <button id="tryAgain" class="btn">That isn't what I said...try again.</button>
       </div>
     </div>
   <script src="js/jquery-1.12.2.js"></script>
