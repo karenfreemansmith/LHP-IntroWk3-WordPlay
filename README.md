@@ -1,7 +1,7 @@
 # [Word Play](http://karenfreemansmith.github.io/wordplay)
 ![project screenshot](/img/screenshot.jpg)
 
-__Version 1: April 3, 2016__
+__Version 1: April 12, 2016__
 ## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
 
 ### Description
